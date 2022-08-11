@@ -219,7 +219,7 @@ Resources:
     Type: AWS::SNS::Topic
     Properties: 
       Subscription: 
-        - Endpoint: "JamesBondHero@outlook.com"
+        - Endpoint: "JamesBondOO7@outlook.com"
           Protocol: "email"
       TopicName: "order-topic"
   OrderQueue:
